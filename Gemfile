@@ -29,4 +29,4 @@ gem 'fourflusher'
 gem 'rake'
 gem 'pry', :group => [:development, :test]
 gem 'rest-client'
-gem 'slather'
+gem 'slather', '>= 2.7.1'
