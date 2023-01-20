@@ -23,7 +23,7 @@ source "http://rubygems.org"
 
 gem 'fourflusher'
 gem 'xcpretty'
-gem 'activesupport', '~> 5.0'
+gem 'activesupport', '~> 6.1', '>= 6.1.7.1'
 gem 'fourflusher'
 
 gem 'rake'
