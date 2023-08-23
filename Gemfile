@@ -23,10 +23,10 @@ source "http://rubygems.org"
 
 gem 'fourflusher'
 gem 'xcpretty'
-gem 'activesupport', '~> 5.0'
+gem 'activesupport', '~> 6.1', '>= 6.1.7.5'
 gem 'fourflusher'
 
 gem 'rake'
 gem 'pry', :group => [:development, :test]
 gem 'rest-client'
-gem 'slather'
+gem 'slather', '>= 2.7.2'
